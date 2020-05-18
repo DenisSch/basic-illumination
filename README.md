@@ -1,6 +1,9 @@
 # basic-illumination
 ImageJ BaSiC shading correction for use with Ashlar
 
+Reference:     
+Peng, T., Thorn, K., Schroeder, T. et al. A BaSiC tool for background and shading correction of optical microscopy images. Nat Commun 8, 14836 (2017). [https://doi.org/10.1038/ncomms14836](https://doi.org/10.1038/ncomms14836)
+
 ## Running as a Docker container
 
 Create a container:
